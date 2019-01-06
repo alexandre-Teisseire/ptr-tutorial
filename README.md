@@ -4,7 +4,7 @@ First, you should read what this repository is about: [Getting started](/GETTING
 
 # Courses Overview
 
-- [ ] [Getting started](/GETTINGSTARTED.md)
+- [X] [Getting started](/GETTINGSTARTED.md)
 
 
 ## git
