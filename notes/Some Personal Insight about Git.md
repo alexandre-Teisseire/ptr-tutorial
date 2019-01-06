@@ -24,13 +24,14 @@ to the client–server approach of centralized systems.
 - (4) On FOSS software projects it is much easier to create a project fork from a project that is stalled because of leadership conflicts   ordesign disagreements.
 
 (source Wikipedia besides the ranking)
+
 \* : It becomes less and less a problem with the outbreak of 4g networks.
 
 ### Disadvantages of DVCS (compared with centralized systems) include:
 
 - (2) Initial checkout of a repository is slower as compared to checkout in a centralized version control system, because all branches  and revision history are copied to the local machine by default.
 
-- (1) The lack of locking mechanisms that is part of most centralized VCS and still plays an important role when it comes to n              on-mergeable binary files such as graphic assets.
+- (1) The lack of locking mechanisms that is part of most centralized VCS and still plays an important role when it comes to non-mergeable binary files such as graphic assets.
 
 - (3) Additional storage required for every user to have a complete copy of the complete codebase history.
 
