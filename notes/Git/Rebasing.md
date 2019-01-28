@@ -8,9 +8,10 @@ So when i stumble upon this during this course it was kind of brand new.
 
 # Rebasing : first approach
 
-![alt-text](rebaseFailed.PNG :( ) ![alt-text](rebaseFailed2.PNG :( )
+![alt-text](rebaseFailed.PNG ":(" ) ![alt-text](rebaseFailed2.PNG ":(" )
 
-... Was a failure. Then, there is no point in pulling while rebasing.
+... Was a failure. Then, there is no point in pulling while rebasing. If you want to get
+changes from remote, fetch it before rebasing.
 
 # Rebasing : Good practise
 
