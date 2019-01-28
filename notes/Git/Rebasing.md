@@ -13,7 +13,7 @@ So when i stumble upon this during this course it was kind of brand new.
 ... Was a failure. Then, there is no point in pulling while rebasing. If you want to get
 changes from remote, fetch it before rebasing.
 
-# Rebasing : Good practise
+# Rebasing : Good practices
 
 ```console
 git log --oneline --graph --color --decorate --branches
